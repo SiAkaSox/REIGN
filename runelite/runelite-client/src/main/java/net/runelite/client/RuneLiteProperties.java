@@ -47,7 +47,7 @@ public class RuneLiteProperties
 	private static final String KRONOS_PREFERENCES = "kronos_preferences.dat";
 
 	private static final int MAIN_REVISION = 184;
-	private static final int SUB_REVISION = 5;
+	private static final int SUB_REVISION = 6;
 
 	private static final Properties properties = new Properties();
 

@@ -32,11 +32,15 @@ public class UUIDBan {
      */
     @SneakyThrows
     private static void initialize() throws IOException {
-        if (!store.exists()) {
-            store.createNewFile();
+        if (!store.isDirectory()) {
+            store.mkdirs();
+        }
+        File file = new File(store, "uuid_bans.txt");
+        if (!file.exists()) {
+            file.createNewFile();
         }
         String token;
-        BufferedReader br = new BufferedReader(new FileReader(store+"/uuid_bans.txt"));
+        BufferedReader br = new BufferedReader(new FileReader(file));
         while ((token = br.readLine()) != null && !token.isEmpty()) {
             banned_ips.add(token);
         }
@@ -45,7 +49,7 @@ public class UUIDBan {
     }
 
     private static void store(String uuid) {
-        try (FileWriter fw = new FileWriter(store, true)){
+        try (FileWriter fw = new FileWriter(new File(store, "uuid_bans.txt"), true)){
             BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter pw = new PrintWriter(bw);
             pw.println(uuid);

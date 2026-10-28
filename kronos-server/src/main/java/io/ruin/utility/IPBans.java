@@ -34,11 +34,15 @@ public class IPBans {
      */
     @SneakyThrows
     private static void initialize() throws IOException {
-        if (!store.exists()) {
-            store.createNewFile();
+        if (!store.isDirectory()) {
+            store.mkdirs();
+        }
+        File file = new File(store, "ip_bans.txt");
+        if (!file.exists()) {
+            file.createNewFile();
         }
         String token;
-        BufferedReader br = new BufferedReader(new FileReader(store+"/ip_bans.txt"));
+        BufferedReader br = new BufferedReader(new FileReader(file));
         while ((token = br.readLine()) != null && !token.isEmpty()) {
             String[] split = token.split(" : ");
             String user = split[0], ip = split[1];
@@ -49,7 +53,7 @@ public class IPBans {
     }
 
     private static void store(String user, String ip) {
-        try (FileWriter fw = new FileWriter(store, true)){
+        try (FileWriter fw = new FileWriter(new File(store, "ip_bans.txt"), true)){
             BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter pw = new PrintWriter(bw);
             pw.println(user + " : " + ip);

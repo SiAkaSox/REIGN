@@ -26,7 +26,7 @@ public class teleports extends DataFile {
 
     @Override
     public String path() {
-        return "teleports_" + World.type.name().toLowerCase() + ".json";
+        return "teleports_" + (World.isEco() ? "eco" : "pvp") + ".json";
     }
 
     @Override

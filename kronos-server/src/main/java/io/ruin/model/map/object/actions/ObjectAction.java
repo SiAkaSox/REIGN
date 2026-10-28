@@ -70,15 +70,30 @@ public interface ObjectAction {
      */
 
     static void register(int objectId, int x, int y, int z, int option, ObjectAction action) {
-        register(Tile.getObject(objectId, x, y, z), option, action);
+        GameObject obj = Tile.getObject(objectId, x, y, z);
+        if (obj == null) {
+            org.slf4j.LoggerFactory.getLogger(ObjectAction.class).warn("Skipping object action: no object {} at {}, {}, {}", objectId, x, y, z);
+            return;
+        }
+        register(obj, option, action);
     }
 
     static boolean register(int objectId, int x, int y, int z, String optionName, ObjectAction action) {
-        return register(Tile.getObject(objectId, x, y, z), optionName, action);
+        GameObject obj = Tile.getObject(objectId, x, y, z);
+        if (obj == null) {
+            org.slf4j.LoggerFactory.getLogger(ObjectAction.class).warn("Skipping object action: no object {} at {}, {}, {}", objectId, x, y, z);
+            return false;
+        }
+        return register(obj, optionName, action);
     }
 
     static void register(int objectId, int x, int y, int z, Consumer<ObjectAction[]> actionsConsumer) {
-        register(Tile.getObject(objectId, x, y, z), actionsConsumer);
+        GameObject obj = Tile.getObject(objectId, x, y, z);
+        if (obj == null) {
+            org.slf4j.LoggerFactory.getLogger(ObjectAction.class).warn("Skipping object action: no object {} at {}, {}, {}", objectId, x, y, z);
+            return;
+        }
+        register(obj, actionsConsumer);
     }
 
     /**

@@ -20,7 +20,7 @@ public class Help extends DataFile {
 
     @Override
     public String path() {
-        return "help_" + World.type.name().toLowerCase() + ".json";
+        return "help_" + (World.isEco() ? "eco" : "pvp") + ".json";
     }
 
     @Override
