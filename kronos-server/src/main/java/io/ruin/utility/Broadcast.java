@@ -1,0 +1,118 @@
+package io.ruin.utility;
+
+import io.ruin.cache.Icon;
+import io.ruin.model.World;
+import io.ruin.model.entity.player.Player;
+
+import java.util.function.BiConsumer;
+
+public enum Broadcast {
+
+    WORLD(Icon.BLUE_INFO_BADGE, (player, message) -> World.players.forEach(p -> {
+        //If the player has toggle off announcement broadcasts don't send.
+        if (!p.broadcastAnnouncements && (message.contains("Announcements") || message.contains("::Vote for"))) {
+            return;
+        }
+        //If the player has toggle off tournament broadcasts don't send.
+        if (!p.broadcastTournaments && message.contains("Tournament is starting")) {
+            return;
+        }
+        if (!p.broadcastBossEvent && message.contains("Wilderness Event")) {
+            return;
+        }
+        p.sendMessage(message);
+    })),
+    WORLD_NOTIFICATION(Icon.BLUE_INFO_BADGE, (player, message) -> World.players.forEach(p -> {
+        p.sendMessage(message);
+        p.sendNotification(message);
+    })),
+    GLOBAL(Icon.YELLOW_INFO_BADGE, (player, message) -> World.players.forEach(p -> {
+        p.sendMessage(message);
+    }));
+    private final Icon newsIcon;
+
+
+    private final BiConsumer<Player, String> consumer;
+
+    Broadcast(Icon newsIcon, BiConsumer<Player, String> consumer) {
+        this.newsIcon = newsIcon;
+        this.consumer = consumer;
+    }
+
+    /**
+     * Send the given message as is.
+     */
+
+    public void sendPlain(String message) {
+        sendPlain(null, message);
+    }
+
+    public void sendPlain(Player player, String message) {
+        //Player only required to be set when this == FRIENDS.
+        consumer.accept(player, message);
+    }
+
+    /**
+     * Send the given message with a news portion added to it.
+     */
+
+    public void sendNews(String message) {
+        sendNews(null, null, null, message);
+    }
+
+    public void worldBoss(String message) {
+        worldBoss(null, null, null, message);
+    }
+
+    public void sendLoot(String message) {
+        sendNews(null, null, null, message);
+    }
+
+    public void newPlayer(String message) {
+        newPlayer(null, null, null, message);
+    }
+
+    public void sendLottery(String message) { sendLottery(null, null, null, message); }
+
+    public void sendNews(Player player, String message) {
+        sendNews(player, null, null, message);
+    }
+    public void sendLoot(Player p, String message) {
+        sendLoot(p, null, null, message );
+    }
+
+    public void sendNews(Icon overrideIcon, String title, String message) {
+        sendNews(null, overrideIcon, title, message);
+    }
+    public void sendWorldBoss(Icon overrideIcon, String title, String message) {
+        worldBoss(null, null, title, message);
+    }
+
+    public void sendNews(Icon overrideIcon, String message) {
+        sendNews(null, null, null, message);
+    }
+
+    public void worldBoss(Player player, Icon overrideIcon, String title, String message) {
+        //Player only required to be set when this == FRIENDS.
+        consumer.accept(player, (overrideIcon == null ? newsIcon.tag() : overrideIcon.tag()) + "<img=18> <col=0b5394>News:</col>" +
+                (title == null ? "" : title + "") + " " + message);
+    }
+    public void sendNews(Player player, Icon overrideIcon, String title, String message) {
+        //Player only required to be set when this == FRIENDS.
+        consumer.accept(player, (overrideIcon == null ? newsIcon.tag() : overrideIcon.tag()) + "<img=18> <col=0b5394>News:</col>" +
+                (title == null ? "" : title + "") + " " + message);
+    }
+    public void sendLottery(Player player, Icon overrideIcon, String title, String message) {
+        consumer.accept(player, (overrideIcon == null ? newsIcon.tag() : overrideIcon.tag()) + "<col=6f0000>" +
+                (title == null ? "Lottery:" : title + ":") + " <col=0040ff>" + message);
+    }
+    public void sendLoot(Player player, Icon overrideIcon, String title, String message) {
+        consumer.accept(player, (overrideIcon == null ? newsIcon.tag() : overrideIcon.tag()) + "<col=8B0000>" +
+                "<img=81> Rare Drop:" + " <col=000000>" + message);
+    }
+    public void newPlayer(Player player, Icon overrideIcon, String title, String message) {
+        consumer.accept(player, (overrideIcon == null ? newsIcon.tag() : overrideIcon.tag()) + "<col=6f0000>" +
+                (title == null ? "New Player:<col=0040ff>" : title + ":") + " " + message);
+    }
+
+}

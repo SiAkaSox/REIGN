@@ -1,0 +1,39 @@
+version = '1.0'
+project.ext {
+    type = "server"
+}
+
+apply plugin: 'application'
+apply plugin: 'kotlin'
+
+compileKotlin {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    implementation group: 'com.typesafe', name: 'config', version:'1.3.1'
+    //implementation group: 'net.dv8tion', name: 'JDA', version: '4.0.0_70'
+    implementation group: 'org.jsoup', name: 'jsoup', version: '1.12.2'
+    implementation group: 'io.undertow', name: 'undertow-core', version: '1.4.18.Final'
+    implementation 'com.mashape.unirest:unirest-java:1.4.9'
+    //compile group: 'de.brudaswen.kotlinx.coroutines', name: 'kotlinx-coroutines-swt', version: '1.0.0'
+    implementation group: 'org.jetbrains.kotlinx', name: 'kotlinx-coroutines-core', version: '1.3.7'
+    implementation group: 'org.jetbrains.kotlin', name: 'kotlin-stdlib-jdk8', version:'1.3.21'
+    implementation group: 'com.ea.agentloader', name: 'ea-agent-loader', version: '1.0.3'
+    implementation group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-yaml', version: '2.11.0'
+    implementation group: 'com.zaxxer', name: 'HikariCP', version:'2.7.3'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.19'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version:'3.9'
+    implementation group: 'org.apache.httpcomponents', name: 'httpclient', version:'4.5.4'
+    implementation group: 'com.google.http-client', name: 'google-http-client-jackson2', version:'1.32.1'
+    implementation group: 'org.db4j', name: 'kilim', version: '2.0.2'
+    implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.8.1'
+    implementation "org.javacord:javacord:3.8.0"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+
+}
+
+application {
+    mainClassName = 'io.ruin.Server'
+}

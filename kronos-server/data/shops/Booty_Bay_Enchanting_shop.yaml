@@ -1,0 +1,66 @@
+---
+identifier: "5e31b723-6faf-4f79-bb5d-b8967e35c165"
+title: "Booty Bay Enchanting Materials"
+currency: "BOOTY_BAY_SHARDS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 4689
+    amount: 10000
+    price: 50
+    placeholderId: 0
+  - id: 21246
+    amount: 10000
+    price: 50
+    placeholderId: 0
+  - id: 22599
+    amount: 10000
+    price: 65
+    placeholderId: 0
+  - id: 24986
+    amount: 10000
+    price: 75
+    placeholderId: 0
+  - id: 21532
+    amount: 10000
+    price: 75
+    placeholderId: 0
+  - id: 26390
+    amount: 10000
+    price: 90
+    placeholderId: 0
+  - id: 22446
+    amount: 10000
+    price: 135
+    placeholderId: 0
+  - id: 21391
+    amount: 10000
+    price: 350
+    placeholderId: 0
+  - id: 4703
+    amount: 10000
+    price: 550
+    placeholderId: 0
+  - id: 21716
+    amount: 10000
+    price: 2500
+    placeholderId: 0
+  - id: 4670
+    amount: 10000
+    price: 2500
+    placeholderId: 0
+  - id: 4672
+    amount: 10000
+    price: 2500
+    placeholderId: 0
+  - id: 4671
+    amount: 10000
+    price: 2500
+    placeholderId: 0
+  - id: 4673
+    amount: 10000
+    price: 2500
+    placeholderId: 0

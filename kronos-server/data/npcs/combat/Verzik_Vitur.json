@@ -1,0 +1,47 @@
+[
+  { #Theatre of Blood - Verzik Vitur
+    "ids": [ 8369, 8370, 8371, 8372, 8373, 8374, 8375 ],
+    //Combat Info
+    "hitpoints": 2000,
+    "aggressive_level": -1,
+    "max_damage": 60,
+    "attack_style": "CRUSH, MAGIC, RANGED",
+   //"pet": "",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 400,
+    "strength": 400,
+    "defence": 150,
+    "ranged": 300,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 80,
+    "slash_attack": 30,
+    "crush_attack": 0,
+    "magic_attack": 80,
+    "ranged_attack": 80,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 30,
+    "crush_defence": 70,
+    "magic_defence": 100,
+    "ranged_defence": 230,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1,
+	//Other
+	"local_loot": true
+  }
+]

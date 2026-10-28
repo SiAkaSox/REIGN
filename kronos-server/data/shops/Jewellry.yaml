@@ -1,0 +1,47 @@
+---
+identifier: "81c7cb4a-f03f-4862-9d3k-3d63ddb64a8a"
+title: "Jewellery Supply"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 2550
+    amount: 10000
+  - id: 1725
+    amount: 10000
+  - id: 1712
+    amount: 10000
+  - id: 11972
+    amount: 10000
+  - id: 11128
+    amount: 10000
+  - id: 6585
+    amount: 10000
+    price: 7500000
+  - id: 12002
+    amount: 10000
+    price: 7500000
+  - id: 11980
+    amount: 10000
+    price: 11000
+  - id: 11968
+    amount: 10000
+    price: 11000
+  - id: 21166
+    amount: 10000
+    price: 8000
+  - id: 6737
+    amount: 10000
+    price: 2000000
+  - id: 6733
+    amount: 10000
+    price: 2000000
+  - id: 6731
+    amount: 10000
+    price: 2000000
+  - id: 6735
+    amount: 10000
+    price: 2000000

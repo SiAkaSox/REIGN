@@ -1,0 +1,52 @@
+---
+identifier: "093f2aef-46b4-4b40-943b-0934954ee124"
+title: "Last Man Standing Rewards"
+currency: "LMS_POINTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 12846
+  amount: 1000
+  price: 100
+- id: 12791
+  amount: 1000
+  price: 40
+- id: 2528
+  amount: 1000
+  price: 25
+- id: 30276
+  amount: 1000
+  price: 100
+- id: 20068
+  amount: 1000
+  price: 75
+- id: 20071
+  amount: 1000
+  price: 75
+- id: 20074
+  amount: 1000
+  price: 75
+- id: 20077
+  amount: 1000
+  price: 75
+- id: 25859
+  amount: 1000
+  price: 300
+- id: 23956
+  amount: 1000
+  price: 300
+- id: 23351
+  amount: 1000
+  price: 150
+- id: 13319
+  amount: 1000
+  price: 150
+- id: 13317
+  amount: 1000
+  price: 200
+- id: 13318
+  amount: 1000
+  price: 200

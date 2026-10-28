@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1259,
+    "y": 4323,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1262,
+    "y": 4321,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1258,
+    "y": 4318,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1264,
+    "y": 4317,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1267,
+    "y": 4322,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1269,
+    "y": 4318,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Basilisk knight",
+    "id": 9293,
+    "x": 1230,
+    "y": 4328,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Basilisk knight",
+    "id": 9293,
+    "x": 1225,
+    "y": 4331,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Basilisk knight",
+    "id": 9293,
+    "x": 1232,
+    "y": 4334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Basilisk knight",
+    "id": 9293,
+    "x": 1227,
+    "y": 4338,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1250,
+    "y": 4337,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1249,
+    "y": 4332,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1255,
+    "y": 4334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1258,
+    "y": 4339,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1264,
+    "y": 4337,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1261,
+    "y": 4333,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Revenant goblin",
+    "id": 7931,
+    "x": 1222,
+    "y": 4309,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant dragon",
+    "id": 7940,
+    "x": 1223,
+    "y": 4293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant demon",
+    "id": 7937,
+    "x": 1232,
+    "y": 4301,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant ork",
+    "id": 7937,
+    "x": 1234,
+    "y": 4294,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant knight",
+    "id": 7939,
+    "x": 1230,
+    "y": 4310,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant cyclops",
+    "id": 7939,
+    "x": 1237,
+    "y": 4307,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant dark beast",
+    "id": 7938,
+    "x": 1241,
+    "y": 4302,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

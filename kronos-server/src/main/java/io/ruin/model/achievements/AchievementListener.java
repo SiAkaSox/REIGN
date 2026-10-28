@@ -1,0 +1,43 @@
+package io.ruin.model.achievements;
+
+import io.ruin.cache.Color;
+import io.ruin.model.entity.player.Player;
+import io.ruin.utility.Misc;
+
+import static io.ruin.cache.ItemID.COINS_995;
+
+public interface AchievementListener {
+
+    default void init() {};
+
+    String name();
+
+    AchievementStage stage(Player player);
+
+    String[] lines(Player player, boolean finished);
+
+    void started(Player player);
+
+    void finished(Player player);
+
+    default void rewardBm(Player player, int amount) {
+        if(player.getInventory().hasRoomFor(13307, amount)) {
+            player.getInventory().add(13307, amount);
+            player.sendMessage(Color.COOL_BLUE.wrap("You've been rewarded "+ Misc.formatNumber(amount)+" blood money for completing " + name() + "."));
+        } else {
+            player.getBank().add(13307, amount);
+            player.sendMessage(Color.COOL_BLUE.wrap(Misc.formatNumber(amount)+" blood money has been deposited into your bank for completing " + name() + "."));
+        }
+    }
+
+    default void rewardCoins(Player player, int amount) {
+        if(player.getInventory().hasRoomFor(COINS_995)) {
+            player.getInventory().add(COINS_995, amount);
+            player.sendMessage(Color.COOL_BLUE.wrap("You've been rewarded "+Misc.formatNumber(amount)+" gp for completing " + name() + "."));
+        } else {
+            player.getBank().add(COINS_995, amount);
+            player.sendMessage(Color.COOL_BLUE.wrap(Misc.formatNumber(amount)+" gp has been deposited into your bank for completing " + name() + "."));
+        }
+    }
+
+}

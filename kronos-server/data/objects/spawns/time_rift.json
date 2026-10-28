@@ -1,0 +1,7 @@
+[
+  {"id": 38451, "x": 2294, "y": 2918, "z": 0, "type": 10}, //east portal
+  {"id": 38451, "x": 2210, "y": 2844, "z": 0, "type": 10}, //south portal
+  {"id": 38451, "x": 2122, "y": 2903, "z": 0, "type": 10}, //west portal
+  {"id": 38451, "x": 2206, "y": 2980, "z": 0, "type": 10}, //north portal
+  {"id": 41808, "x": 2205, "y": 2911, "z": 0, "type": 10} //boss portal
+]

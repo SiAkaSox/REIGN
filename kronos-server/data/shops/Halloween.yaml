@@ -1,0 +1,85 @@
+---
+identifier: "8d16djj7-a3a8-4271-9aae-d69kf2f7e037"
+title: "Halloween Event Rewards"
+currency: "PRESENTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 9920
+    amount: 10000
+    price: 50
+  - id: 19912
+    amount: 10000
+    price: 75
+  - id: 12845
+    amount: 10000
+    price: 75
+  - id: 13288
+    amount: 10000
+    price: 100
+  - id: 21720
+    amount: 1000
+    price: 125
+  - id: 24975
+    amount: 10000
+    price: 125
+  - id: 24325
+    amount: 10000
+    price: 100
+  - id: 24327
+    amount: 10000
+    price: 100
+  - id: 9925
+    amount: 10000
+    price: 100
+  - id: 9924
+    amount: 10000
+    price: 100
+  - id: 9923
+    amount: 10000
+    price: 100
+  - id: 9922
+    amount: 10000
+    price: 100
+  - id: 9921
+    amount: 10000
+    price: 100
+  - id: 26256
+    amount: 10000
+    price: 150
+  - id: 26258
+    amount: 10000
+    price: 150
+  - id: 1419
+    amount: 10000
+    price: 300
+  - id: 20773
+    amount: 10000
+    price: 100
+  - id: 20775
+    amount: 10000
+    price: 100
+  - id: 20777
+    amount: 10000
+    price: 100
+  - id: 20779
+    amount: 10000
+    price: 100
+  - id: 20779
+    amount: 10000
+    price: 100
+  - id: 1053
+    amount: 10000
+    price: 1000
+  - id: 1055
+    amount: 10000
+    price: 1000
+  - id: 1057
+    amount: 10000
+    price: 1000
+  - id: 11847
+    amount: 10000
+    price: 1300

@@ -1,0 +1,45 @@
+[
+  { #The Mimic
+    "ids": [ 8635 ],
+    "handler": "io.ruin.model.activities.mimic.ThirdAgeWarrior",
+    //Combat Info
+    "hitpoints": 40,
+    "aggressive_level": 138,
+    "max_damage": 18,
+  "attack_style": "MELEE",
+    //Slayer Info
+    "slayer_level": 0,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 90,
+    "strength": 75,
+    "defence": 80,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 105,
+    "slash_attack": 75,
+    "crush_attack": 75,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 96,
+    "slash_defence": 108,
+    "crush_defence": 113,
+    "magic_defence": -4,
+    "ranged_defence": 97,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 390,
+    "defend_animation": 388,
+    "death_animation": 836
+  }
+]

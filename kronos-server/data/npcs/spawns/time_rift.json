@@ -1,0 +1,25 @@
+[
+  {
+    "name": "King black dragon",
+    "id": 239,
+    "x": 2835,
+    "y": 4590,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Time Rift Rewards",
+    "id": 4423,
+    "x": 2210,
+    "y": 2857,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "shopOptions": {
+      "talk-to": "4d16djf7-a3a8-4351-9aae-d69kf2f6e137",
+      "trade": "4d16djf7-a3a8-4351-9aae-d69kf2f6e137",
+      "rewards": "4d16djf7-a3a8-4351-9aae-d69kf2f6e137"
+    }
+  }
+]

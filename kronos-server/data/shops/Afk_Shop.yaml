@@ -1,0 +1,70 @@
+---
+identifier: "4d16djf7-a3a8-4351-9aae-d69kf2f7e037"
+title: "AFK Rewards"
+currency: "AFK_DUST"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 13646
+    amount: 10000
+    price: 50000
+  - id: 13642
+    amount: 10000
+    price: 50000
+  - id: 13640
+    amount: 10000
+    price: 50000
+  - id: 13644
+    amount: 10000
+    price: 50000
+  - id: 10941
+    amount: 1000
+    price: 50000
+  - id: 10939
+    amount: 10000
+    price: 50000
+  - id: 10940
+    amount: 10000
+    price: 50000
+  - id: 10933
+    amount: 10000
+    price: 50000
+  - id: 13258
+    amount: 10000
+    price: 50000
+  - id: 13259
+    amount: 10000
+    price: 50000
+  - id: 13260
+    amount: 10000
+    price: 50000
+  - id: 13261
+    amount: 10000
+    price: 50000
+  - id: 12013
+    amount: 10000
+    price: 50000
+  - id: 12014
+    amount: 10000
+    price: 50000
+  - id: 12015
+    amount: 10000
+    price: 50000
+  - id: 12016
+    amount: 10000
+    price: 50000
+  - id: 12019
+    amount: 10000
+    price: 100000
+  - id: 13226
+    amount: 10000
+    price: 100000
+  - id: 6739
+    amount: 10000
+    price: 75000
+  - id: 11920
+    amount: 10000
+    price: 75000

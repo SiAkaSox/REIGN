@@ -1,0 +1,28 @@
+---
+identifier: "5464df07-5091-4ddc-8c5a-436db5ae5193"
+title: "Sigmund the Merchant"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: true
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 1597
+    amount: 1000
+    price: 400
+  - id: 1963
+    amount: 1000
+    price: 700
+  - id: 712
+    amount: 1000
+    price: 1500
+  - id: 1993
+    amount: 1000
+    price: 3200
+  - id: 1613
+    amount: 1000
+    price: 7000
+  - id: 442
+    amount: 1000
+    price: 1000

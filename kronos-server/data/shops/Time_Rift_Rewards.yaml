@@ -1,0 +1,67 @@
+---
+identifier: "4d16djf7-a3a8-4351-9aae-d69kf2f6e137"
+title: "Time Rift Rewards"
+currency: "TIME_RIFT_SHARDS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 6758
+    amount: 10000
+    price: 3000
+  - id: 608
+    amount: 10000
+    price: 7500
+  - id: 607
+    amount: 10000
+    price: 7500
+  - id: 786
+    amount: 10000
+    price: 2500
+  - id: 10551
+    amount: 1000
+    price: 7500
+  - id: 8901
+    amount: 10000
+    price: 10000
+  - id: 6914
+    amount: 10000
+    price: 17000
+  - id: 6889
+    amount: 10000
+    price: 17000
+  - id: 30276
+    amount: 10000
+    price: 25000
+  - id: 2528
+    amount: 10000
+    price: 5000
+  - id: 25676
+    amount: 10000
+    price: 2
+  - id: 6918
+    amount: 10000
+    price: 7500
+  - id: 6916
+    amount: 10000
+    price: 7500
+  - id: 6924
+    amount: 10000
+    price: 7500
+  - id: 6920
+    amount: 10000
+    price: 9000
+  - id: 6922
+    amount: 10000
+    price: 5000
+  - id: 21298
+    amount: 10000
+    price: 7500
+  - id: 21301
+    amount: 10000
+    price: 7500
+  - id: 21304
+    amount: 10000
+    price: 7500

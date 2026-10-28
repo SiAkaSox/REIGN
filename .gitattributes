@@ -1,0 +1,11 @@
+*.dat2 filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.idx filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+*.cache filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.iso filter=lfs diff=lfs merge=lfs -text

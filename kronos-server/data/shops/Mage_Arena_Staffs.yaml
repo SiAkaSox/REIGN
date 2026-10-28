@@ -1,0 +1,19 @@
+---
+identifier: "lP40FSuhtyni62az1Sc4pKk8DcJIYa"
+title: "Mage Arena Staffs"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 2417
+    amount: 50
+    price: 80000
+  - id: 2415
+    amount: 50
+    price: 80000
+  - id: 2416
+    amount: 50
+    price: 80000

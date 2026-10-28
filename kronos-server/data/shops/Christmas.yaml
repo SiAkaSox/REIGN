@@ -1,0 +1,76 @@
+---
+identifier: "8d16djj7-a3a8-4271-9aae-d69kf2f7e027"
+title: "Christmas Event Rewards"
+currency: "PRESENTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 12887
+    amount: 10000
+    price: 50
+  - id: 12888
+    amount: 10000
+    price: 75
+  - id: 12889
+    amount: 10000
+    price: 75
+  - id: 12890
+    amount: 10000
+    price: 100
+  - id: 12891
+    amount: 1000
+    price: 125
+  - id: 1050
+    amount: 10000
+    price: 1000
+  - id: 21859
+    amount: 10000
+    price: 1200
+  - id: 13343
+    amount: 10000
+    price: 1500
+  - id: 12892
+    amount: 10000
+    price: 100
+  - id: 12893
+    amount: 10000
+    price: 100
+  - id: 12894
+    amount: 10000
+    price: 100
+  - id: 12895
+    amount: 10000
+    price: 100
+  - id: 12896
+    amount: 10000
+    price: 100
+  - id: 13344
+    amount: 10000
+    price: 1000
+  - id: 30224
+    amount: 10000
+    price: 2000
+  - id: 20836
+    amount: 10000
+    price: 500
+  - id: 10507
+    amount: 10000
+    price: 500
+  - id: 20834
+    amount: 10000
+    price: 500
+  - id: 290
+    amount: 100
+    price: 2000
+  - id: 26374
+    amount: 100
+    price: 5000
+  - id: 22325
+    amount: 100
+    price: 5000
+  - id: 20997
+    amount: 100
+    price: 5000

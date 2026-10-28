@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9763,
+    "x": 3608,
+    "y": 3361,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9756,
+    "x": 3603,
+    "y": 3362,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9763,
+    "x": 3598,
+    "y": 3357,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9756,
+    "x": 3597,
+    "y": 3364,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9763,
+    "x": 3610,
+    "y": 3365,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9756,
+    "x": 3595,
+    "y": 3353,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9763,
+    "x": 3592,
+    "y": 3358,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  },
+  {
+    "id": 9756,
+    "x": 3605,
+    "y": 3356,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "npcName": "Vyrewatch Sentinel"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Oneiromancer",
+    "id": 3835,
+    "x": 2150,
+    "y": 3867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Captain Bentley",
+    "id": 6650,
+    "x": 2138,
+    "y": 3900,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sirsal Banker",
+    "id": 3843,
+    "x": 2098,
+    "y": 3921,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Sirsal Banker",
+    "id": 3843,
+    "x": 2097,
+    "y": 3921,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Suqah",
+    "id": 787,
+    "x": 2139,
+    "y": 3854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Suqah",
+    "id": 787,
+    "x": 2145,
+    "y": 3861,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Suqah",
+    "id": 787,
+    "x": 2146,
+    "y": 3854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Suqah",
+    "id": 787,
+    "x": 2155,
+    "y": 3859,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

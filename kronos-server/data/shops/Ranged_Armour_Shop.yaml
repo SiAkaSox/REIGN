@@ -1,0 +1,115 @@
+---
+identifier: "4643a9b8-4ccb-4180-bfbc-ad340319fef21"
+title: "Ranged Armour Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 1095
+    amount: 100
+  - id: 1129
+    amount: 100
+  - id: 1065
+    amount: 100
+  - id: 1099
+    amount: 100
+  - id: 1135
+    amount: 10000
+  - id: 2487
+    amount: 10000
+  - id: 2493
+    amount: 10000
+  - id: 2499
+    amount: 10000
+  - id: 2489
+    amount: 10000
+  - id: 2495
+    amount: 10000
+  - id: 2501
+    amount: 10000
+  - id: 2491
+    amount: 10000
+  - id: 2497
+    amount: 10000
+  - id: 2503
+    amount: 10000
+  - id: 10499
+    amount: 10000
+  - id: 12496
+    amount: 10000
+    price: 40000
+  - id: 12492
+    amount: 10000
+    price: 80000
+  - id: 12494
+    amount: 10000
+    price: 80000
+  - id: 12490
+    amount: 10000
+    price: 10000
+  - id: 10390
+    amount: 10000
+    price: 40000
+  - id: 10386
+    amount: 10000
+    price: 80000
+  - id: 10388
+    amount: 10000
+    price: 80000
+  - id: 10384
+    amount: 10000
+    price: 20000
+  - id: 10382
+    amount: 10000
+    price: 40000
+  - id: 10378
+    amount: 10000
+    price: 80000
+  - id: 10380
+    amount: 10000
+    price: 80000
+  - id: 10376
+    amount: 10000
+    price: 20000
+  - id: 10374
+    amount: 10000
+    price: 40000
+  - id: 10370
+    amount: 10000
+    price: 80000
+  - id: 10372
+    amount: 10000
+    price: 80000
+  - id: 10368
+    amount: 10000
+    price: 20000
+  - id: 22275
+    amount: 10000
+    price: 5000
+  - id: 22278
+    amount: 10000
+    price: 7000
+  - id: 22281
+    amount: 10000
+    price: 9000
+  - id: 22284
+    amount: 10000
+    price: 12000
+  - id: 23188
+    amount: 10000
+    price: 30000
+  - id: 23191
+    amount: 10000
+    price: 30000
+  - id: 23194
+    amount: 10000
+    price: 30000
+  - id: 23197
+    amount: 10000
+    price: 30000
+  - id: 11926
+    amount: 10000
+    price: 8000000

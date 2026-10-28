@@ -1,0 +1,56 @@
+[
+  {
+    "name": "PvP Tasks",
+    "id": 3526,
+    "x": 1627,
+    "y": 4841,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Combat Tasks",
+    "id": 3525,
+    "x": 1623,
+    "y": 4830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Melee shop",
+    "id": 3216,
+    "x": 1625,
+    "y": 4834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Magic shop",
+    "id": 3218,
+    "x": 1644,
+    "y": 4827,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Range shop",
+    "id": 2883,
+    "x": 1646,
+    "y": 4832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Arena Master",
+    "id": 7632,
+    "x": 1644,
+    "y": 4840,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

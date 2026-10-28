@@ -1,0 +1,88 @@
+[
+  { #Druid (33)
+    "ids": [ 3098 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 30,
+    "aggressive_level": 66,
+    "max_damage": 4,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 28,
+    "strength": 28,
+    "defence": 32,
+    "ranged": 1,
+    "magic": 25,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Druid (33)
+  "ids": [ 2145 ],
+  "handler": "io.ruin.model.activities.miscpvm.slayer.UndeadDruid",
+  //Combat Info
+  "hitpoints": 140,
+  "aggressive_level": 80,
+  "max_damage": 11,
+  "attack_style": "CRUSH",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 147.0,
+  "slayer_tasks": [ "zombie" ],
+  //Combat Stats
+  "attack": 60,
+  "strength": 50,
+  "defence": 60,
+  "ranged": 1,
+  "magic": 115,
+  //Aggressive Stats
+  "stab_attack": 50,
+  "slash_attack": 50,
+  "crush_attack": 50,
+  "magic_attack": 100,
+  "ranged_attack": 0,
+  //Defensive Stats
+  "stab_defence": 40,
+  "slash_defence": 30,
+  "crush_defence": 80,
+  "magic_defence": 140,
+  "ranged_defence": 40,
+  //Immunites
+  "poison_immunity": false,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 4,
+  "death_ticks": 2,
+  "respawn_ticks": 50,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": 5579,
+  "defend_animation": 5578,
+  "death_animation": 5580
+  }
+]

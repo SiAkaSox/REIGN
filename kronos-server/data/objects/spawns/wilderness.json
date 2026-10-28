@@ -1,0 +1,9 @@
+[
+  {"id": 27066, "x": 3386, "y": 3646, "z": 0, "type": 10}, // galvek boat
+  {"id": 27777, "x": 3373, "y": 3796, "z": 0, "type": 10}, //booty bay
+  {"id": 34829, "x": 3018, "y": 3955, "z": 1, "type": 10, "direction": 2}, //Larrans chest
+  {"id": 39647, "x": 3360, "y": 3828, "z": 0, "type": 10, "direction": 2},//booty bay
+  {"id": -1, "x": 3184, "y": 4146, "z": 0, "type": 10},
+  {"id": 42940, "x": 3168, "y": 4110, "z": 0, "type": 10},
+  {"id": 4411, "x": 3809, "y": 2827, "z": 0, "type": 22} // Extra stepping stone
+]

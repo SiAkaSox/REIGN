@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Black bear",
+    "id": 2839,
+    "x": 2979,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black bear",
+    "id": 2839,
+    "x": 2986,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black bear",
+    "id": 2839,
+    "x": 2976,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black bear",
+    "id": 2839,
+    "x": 2974,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

@@ -1,0 +1,103 @@
+---
+identifier: "3a66d8c1-dd6f-444e-a91e-24ea1f0135c0"
+title: "Magic Armor Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 556
+    amount: 1000000
+  - id: 558
+    amount: 1000000
+  - id: 554
+    amount: 1000000
+  - id: 555
+    amount: 1000000
+  - id: 557
+    amount: 1000000
+  - id: 562
+    amount: 1000000
+  - id: 560
+    amount: 1000000
+  - id: 564
+    amount: 1000000
+  - id: 566
+    amount: 1000000
+  - id: 561
+    amount: 1000000
+  - id: 563
+    amount: 1000000
+  - id: 9075
+    amount: 1000000
+  - id: 565
+    amount: 1000000
+  - id: 21880
+    amount: 1000000
+  - id: 6889
+    amount: 10000
+    price: 5000000
+  - id: 6914
+    amount: 10000
+    price: 3000000
+  - id: 4089
+    amount: 10000
+  - id: 20595
+    amount: 10000
+    price: 1500000
+  - id: 13385
+    amount: 10000
+  - id: 1381
+    amount: 10000
+  - id: 1383
+    amount: 10000
+  - id: 1387
+    amount: 10000
+  - id: 1409
+    amount: 10000
+  - id: 4675
+    amount: 10000
+  - id: 4091
+    amount: 10000
+  - id: 20517
+    amount: 10000
+    price: 3000000
+  - id: 13387
+    amount: 10000
+  - id: 22296
+    amount: 10000
+    price: 16000000
+  - id: 11908
+    amount: 10000
+    price: 8000000
+  - id: 11791
+    amount: 10000
+    price: 12000000
+  - id: 11924
+    amount: 10000
+    price: 8000000
+  - id: 2579
+    amount: 10000
+  - id: 4093
+    amount: 10000
+  - id: 20520
+    amount: 10000
+    price: 3000000
+  - id: 13389
+    amount: 10000
+  - id: 20718
+    amount: 10000
+    price: 5000
+  - id: 20716
+    amount: 10000
+    price: 7500000
+  - id: 25578
+    amount: 10000
+    price: 5000
+  - id: 25576
+    amount: 10000
+    price: 7500000
+  - id: 9731
+    amount: 10000

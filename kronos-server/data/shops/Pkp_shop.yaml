@@ -1,0 +1,103 @@
+---
+identifier: "183ba085-4bec-44e0-96b5-50752b4a7ec9"
+title: "Pk Point Rewards"
+currency: "PKP"
+canSellToStore: false
+accessibleByIronMan: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 11802
+    amount: 100
+    price: 3000
+  - id: 11804
+    amount: 100
+    price: 750
+  - id: 11806
+    amount: 100
+    price: 750
+  - id: 11808
+    amount: 100
+    price: 750
+  - id: 24424
+    amount: 100
+    price: 10000
+  - id: 24423
+    amount: 100
+    price: 8000
+  - id: 12002
+    amount: 100
+    price: 1500
+  - id: 19544
+    amount: 100
+    price: 3500
+  - id: 19550
+    amount: 100
+    price: 3500
+  - id: 19553
+    amount: 100
+    price: 3500
+  - id: 19547
+    amount: 100
+    price: 3500
+  - id: 6585
+    amount: 100
+    price: 500
+  - id: 24777
+    amount: 100
+    price: 2000
+  - id: 11828
+    amount: 100
+    price: 2750
+  - id: 11830
+    amount: 100
+    price: 2750
+  - id: 11832
+    amount: 100
+    price: 2750
+  - id: 11834
+    amount: 100
+    price: 2750
+  - id: 13652
+    amount: 100
+    price: 6000
+  - id: 22975
+    amount: 100
+    price: 3200
+  - id: 12929
+    amount: 100
+    price: 3000
+  - id: 11791
+    amount: 100
+    price: 2000
+  - id: 22296
+    amount: 100
+    price: 2000
+  - id: 11924
+    amount: 100
+    price: 1200
+  - id: 11926
+    amount: 100
+    price: 1200
+  - id: 19481
+    amount: 100
+    price: 1000
+  - id: 21902
+    amount: 100
+    price: 1500
+  - id: 22109
+    amount: 100
+    price: 5000
+  - id: 6570
+    amount: 100
+    price: 500
+  - id: 11840
+    amount: 100
+    price: 500
+  - id: 13441
+    amount: 100
+    price: 4
+  - id: 4067
+    amount: 100
+    price: 35

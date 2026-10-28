@@ -1,0 +1,80 @@
+---
+identifier: "81c7cb3a-f03f-4862-9d3e-3d63ddb64a8a"
+title: "Melee Armour Supply"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 1153
+    amount: 10000
+  - id: 1115
+    amount: 10000
+  - id: 1067
+    amount: 10000
+  - id: 1191
+    amount: 10000
+  - id: 1163
+    amount: 10000
+  - id: 1127
+    amount: 10000
+  - id: 1079
+    amount: 10000
+  - id: 1201
+    amount: 10000
+  - id: 1149
+    amount: 10000
+    price: 80000
+  - id: 3140
+    amount: 10000
+    price: 1500000
+  - id: 4585
+    amount: 10000
+    price: 180000
+  - id: 1187
+    amount: 10000
+    price: 250000
+  - id: 21298
+    amount: 10000
+    price: 750000
+  - id: 21301
+    amount: 10000
+    price: 1000000
+  - id: 21304
+    amount: 10000
+    price: 1000000
+  - id: 6524
+    amount: 10000
+    price: 300000
+  - id: 4121
+    amount: 10000
+  - id: 4131
+    amount: 10000
+  - id: 3105
+    amount: 10000
+  - id: 11840
+    amount: 10000
+    price: 180000
+  - id: 7458
+    amount: 10000
+  - id: 7460
+    amount: 10000
+  - id: 7461
+    amount: 10000
+  - id: 7462
+    amount: 10000
+  - id: 6568
+    amount: 10000
+    price: 750000
+  - id: 10828
+    amount: 10000
+  - id: 3751
+    amount: 10000
+  - id: 7534
+    amount: 10000
+  - id: 11283
+    amount: 10000
+    price: 35000000
+

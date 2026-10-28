@@ -1,0 +1,60 @@
+[
+  {
+    "ids": [ 10938 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1151, "min": 1, "max": 1, "weight": 12 }, //Black med helm
+          { "id": 1355, "min": 1, "max": 1, "weight": 10 }, //Mithril axe
+          { "id": 1369, "min": 1, "max": 1, "weight": 9 }, //Mithril battleaxe
+          { "id": 1121, "min": 1, "max": 1, "weight": 8 }, //Mithril platebody
+          { "id": 867, "min": 20, "max": 35, "weight": 7 }, //Adamant knife
+          { "id": 1111, "min": 1, "max": 1, "weight": 6 }, //Adamant chainbody
+          { "id": 1159, "min": 1, "max": 1, "weight": 6 }, //Mithril full helm
+          { "id": 1301, "min": 1, "max": 1, "weight": 6 }, //Adamant longsword
+          { "id": 1331, "min": 1, "max": 1, "weight": 3 }, //Adamant scimitar
+          { "id": 4125, "min": 1, "max": 1, "weight": 4 }, //Black boots
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 1213, "min": 1, "max": 1, "weight": 3 }, //Rune dagger
+          { "id": 1373, "min": 1, "max": 1, "weight": 3 }, //Rune battleaxe
+          { "id": 4087, "min": 1, "max": 1, "weight": 2 }, //Dragon platelegs
+          { "id": 1305, "min": 1, "max": 1, "weight": 2 }, //Dragon long
+          { "id": 21003, "min": 1, "max": 1, "weight": 1 } //Elder maul
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 3,
+        "items": [
+          { "id": 2, "min": 75, "max": 150, "weight": 6 }, //Cannonball
+          { "id": 554, "min": 75, "max": 75, "weight": 3 }, //Fire rune
+          { "id": 565, "min": 50, "max": 100, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 75, "max": 125, "weight": 2 }, //Blood rune
+          { "id": 566, "min": 4, "max": 4, "weight": 2 }, //Soul rune
+          { "id": 11212, "min": 25, "max": 50, "weight": 1 } //Dragon arrow
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 2,
+        "items": [
+          { "id": 995, "min": 500, "max": 1500, "weight": 9 }, //Coins
+          { "id": 995, "min": 2000, "max": 5000, "weight": 7 }, //Coins
+          { "id": 1777, "min": 1, "max": 1, "weight": 9 }, //Bow string
+          { "id": 445, "min": 10, "max": 20, "weight": 6 }, //Gold ore
+          { "id": 2327, "min": 1, "max": 1, "weight": 6 }, //Meat pie
+          { "id": 2360, "min": 5, "max": 10, "weight": 6 }, //Mithril bar
+          { "id": 13307, "min": 10, "max": 35, "weight": 2 }, //blood money
+          { "id": 1689, "min": 1, "max": 1, "weight": 4 }, //Ruby amulet
+          { "id": 13501, "min": 1, "max": 1, "weight": 3 }, //Ensouled demon head
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Hard clue scroll
+        ]
+      }
+    ]
+  }
+]

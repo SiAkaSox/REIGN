@@ -1,0 +1,85 @@
+---
+identifier: "25a27652-f6f4-4d6d-972c-de717e78df99"
+title: "Farming and Herblore Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 5291
+    amount: 100000000
+    price: 100
+  - id: 5292
+    amount: 100000000
+    price: 300
+  - id: 5293
+    amount: 100000000
+    price: 300
+  - id: 5294
+    amount: 100000000
+    price: 500
+  - id: 5295
+    amount: 100000000
+    price: 32000
+  - id: 5296
+    amount: 100000000
+    price: 1200
+  - id: 5297
+    amount: 100000000
+    price: 1200
+  - id: 5298
+    amount: 100000000
+    price: 1500
+  - id: 5299
+    amount: 100000000
+    price: 1800
+  - id: 5300
+    amount: 100000000
+    price: 56000
+  - id: 5301
+    amount: 100000000
+    price: 2300
+  - id: 5302
+    amount: 100000000
+    price: 2300
+  - id: 5303
+    amount: 100000000
+    price: 2300
+  - id: 5304
+    amount: 100000000
+    price: 72000
+  - id: 250
+    amount: 100000000
+  - id: 252
+    amount: 100000000
+  - id: 254
+    amount: 100000000
+  - id: 256
+    amount: 100000000
+  - id: 258
+    amount: 100000000
+    price: 7200
+  - id: 260
+    amount: 100000000
+  - id: 262
+    amount: 100000000
+  - id: 264
+    amount: 100000000
+  - id: 266
+    amount: 100000000
+  - id: 268
+    amount: 100000000
+  - id: 270
+    amount: 100000000
+    price: 9000
+  - id: 3001
+    amount: 100000000
+    price: 12000
+  - id: 2482
+    amount: 100000000
+    price: 12000
+  - id: 2999
+    amount: 100000000
+    price: 12000

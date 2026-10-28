@@ -1,0 +1,16 @@
+---
+identifier: "4d16cff7-a3a8-4351-9aae-d69kf2f7e037"
+title: "Daily Achievement Shop"
+currency: "TASK_POINTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 786
+    amount: 1000
+    price: 10
+  - id: 49050
+    amount: 10000
+    price: 10

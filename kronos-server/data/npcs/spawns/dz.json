@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 2092,
+    "y": 4243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "id": 3894,
+    "x": 2095,
+    "y": 4262,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "name": "Sigmund The Merchant"
+  },
+  {
+    "name": "Bob skilling shop",
+    "id": 4221,
+    "x": 2063,
+    "y": 4268,
+    "z": 0,
+    "direction": "S",
+    "walkRange":0,
+    "shopOptions": {
+      "talk-to": "9c9c490e-61b9-4aec-b4be-0321105e2d5b"
+    }
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 2093,
+    "y": 4242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 2098,
+    "y": 4243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 2097,
+    "y": 4241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Nieve",
+    "id": 6797,
+    "x": 2084,
+    "y": 4246,
+    "z": 0,
+    "direction": "S",
+    "shopOptions": {
+      "trade": "06bf1d5a-e4d8-49f5-9aac-6229a965b98a"
+    },
+    "walkRange": 0
+  },
+  {
+    "name": "Krystilia",
+    "id": 7663,
+    "x": 2076,
+    "y": 4246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "06bf1d5a-e4d8-49f5-9aac-6229a965b98a"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+---
+identifier: "12dae699-41d6-4d0a-8c05-5b3c721b0849"
+title: "Ironman Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 556
+    amount: 1000000
+  - id: 558
+    amount: 1000000
+  - id: 554
+    amount: 1000000
+  - id: 555
+    amount: 1000000
+  - id: 557
+    amount: 1000000
+  - id: 562
+    amount: 1000000
+  - id: 560
+    amount: 1000000
+  - id: 564
+    amount: 1000000
+  - id: 566
+    amount: 1000000
+  - id: 561
+    amount: 1000000
+  - id: 563
+    amount: 1000000
+  - id: 9075
+    amount: 1000000
+  - id: 565
+    amount: 1000000
+  - id: 21880
+    amount: 1000000
+  - id: 884
+    amount: 100000000
+  - id: 890
+    amount: 100000000
+  - id: 892
+    amount: 100000000
+  - id: 11212
+    amount: 100000000
+    price: 10000
+  - id: 21326
+    amount: 100000000
+    price: 10000
+  - id: 863
+    amount: 100000000
+  - id: 868
+    amount: 100000000
+  - id: 380
+    amount: 1000000
+  - id: 374
+    amount: 1000000
+  - id: 386
+    amount: 1000000
+  - id: 2437
+    amount: 1000000
+    price: 1500
+  - id: 2441
+    amount: 1000000
+    price: 1500
+  - id: 2443
+    amount: 1000000
+    price: 1500
+  - id: 2445
+    amount: 1000000
+    price: 4000
+  - id: 3025
+    amount: 1000000
+    price: 6000
+  - id: 6686
+    amount: 1000000
+    price: 6000
+  - id: 3009
+    amount: 1000000
+  - id: 2435
+    amount: 1000000
+    price: 4000
+  - id: 9185
+    amount: 1000000
+    price: 11000
+  - id: 2402
+    amount: 1000000
+    price: 25000
+  - id: 6746
+    amount: 1000000
+    price: 50000
+  - id: 20727
+    amount: 1000000
+    price: 62000
+  - id: 7462
+    amount: 1000000
+    price: 100000
+  - id: 1712
+    amount: 1000000
+    price: 13000
+  - id: 2453
+    amount: 1000000

@@ -1,0 +1,30 @@
+[
+
+  {
+    "name": "Pirate general store",
+    "id": 4028,
+    "x": 3379,
+    "y": 3819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pirate banker",
+    "id": 4040,
+    "x": 3367,
+    "y": 3826,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Pirate banker",
+    "id": 4040,
+    "x": 3367,
+    "y": 3829,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  }
+]

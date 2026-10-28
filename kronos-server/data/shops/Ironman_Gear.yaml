@@ -1,0 +1,33 @@
+---
+identifier: "12dke699-41d6-4d0a-8c05-5b3c721b0849"
+title: "Ironman Armor"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+generalStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 23110
+    amount: 1000000
+    price: 80000
+  - id: 23113
+    amount: 1000000
+    price: 80000
+  - id: 23116
+    amount: 1000000
+    price: 80000
+  - id: 12865
+    amount: 1000000
+    price: 20000
+  - id: 12867
+    amount: 1000000
+    price: 25000
+  - id: 12869
+    amount: 1000000
+    price: 30000
+  - id: 12871
+    amount: 1000000
+    price: 40000
+

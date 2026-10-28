@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 9021, 9022, 9023, 9024, 9035 ],
+    "handler": "io.ruin.model.activities.bosses.gauntlet.Hunllef",
+
+    "hitpoints": 600,
+    "aggressive_level": 1248,
+    "max_damage": 60,
+    "attack_style": "CRUSH",
+
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+
+    "attack": 240,
+    "strength": 240,
+    "defence": 240,
+    "ranged": 240,
+    "magic": 240,
+
+    "stab_attack": 76,
+    "slash_attack": 64,
+    "crush_attack": 64,
+    "magic_attack": 76,
+    "ranged_attack": 64,
+
+    "stab_defence": 20,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 20,
+    "ranged_defence": 20,
+
+    "poison_immunity": true,
+    "venom_immunity": true,
+
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+
+    "spawn_animation": -1,
+    "attack_animation": 8420,
+    "defend_animation": 8419,
+    "death_animation": 8422
+  }
+]

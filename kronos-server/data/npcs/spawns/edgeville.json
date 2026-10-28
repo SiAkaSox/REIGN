@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Lisa",
+    "id": 7317,
+    "x": 3142,
+    "y": 3631,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "Trade": "093f2aef-46b4-4b40-943b-0934954ee124"
+    }
+  },
+  {
+    "id": 7632,
+    "x": 3098,
+    "y": 3514,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "npcName": "Arena Master"
+  },
+  {
+    "name": "Vote manager",
+    "id": 7045,
+    "x": 3075,
+    "y": 3511,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "id": 7456,
+    "x": 3094,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "npcName": "Perdu"
+  },
+  {
+    "name": "Shop keeper",
+    "id": 2821,
+    "x": 3092,
+    "y": 3494,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "shopOptions": {
+      "talk-to": "e522b145-fbaa-4746-8d71-6ad9808d2338",
+      "trade": "e522b145-fbaa-4746-8d71-6ad9808d2338"
+    }
+  },
+  {
+    "name": "Mage of Zamorak",
+    "id": 2581,
+    "x": 3091,
+    "y": 3468,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Otto Godblessed",
+    "id": 2914,
+    "x": 3089,
+    "y": 3469,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Bob Barter",
+    "id": 5449,
+    "x": 3118,
+    "y": 3514,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1
+  },
+  {
+    "name": "Nieve",
+    "id": 6797,
+    "x": 3086,
+    "y": 3488,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Duradel",
+    "id": 405,
+    "x": 3086,
+    "y": 3485,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Turael",
+    "id": 401,
+    "x": 3079,
+    "y": 3488,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Afk shop",
+    "id": 5215,
+    "x": 3128,
+    "y": 3475,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "shopOptions": {
+      "talk-to": "4d16djf7-a3a8-4351-9aae-d69kf2f7e037"
+    }
+  },
+  {
+    "name": "Melee Tutor",
+    "id": 3216,
+    "x": 3075,
+    "y": 3510,
+    "z": 0,
+    "direction": "E",
+    "walkRange":0
+  },
+  {
+    "name": "Emblem Trader",
+    "id": 308,
+    "x": 3098,
+    "y": 3513,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Vanessa",
+    "id": 502,
+    "x": 3094,
+    "y": 3464,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "25a27451-f6f4-4d6d-972c-de717e78df99"
+    }
+  },
+  {
+    "name": "Tournament Manager",
+    "id": 7316,
+    "x": 3105,
+    "y": 3510,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Watson",
+    "id": 7303,
+    "x": 3095,
+    "y": 3512,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "AFK Zalcano",
+    "id": 9050,
+    "x": 3118,
+    "y": 3474,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "AFK Tempeross",
+    "id": 10571,
+    "x": 3121,
+    "y": 3483,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3094,
+    "y": 3517,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3093,
+    "y": 3517,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Make-over mage",
+    "id": 1307,
+    "x": 3075,
+    "y": 3512,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Sawmill Operator",
+    "id": 3101,
+    "x": 3094,
+    "y": 3482,
+    "z": 0,
+    "direction": "W",
+    "shopOptions": {
+      "trade": "a1e55885-3aa4-4d63-8a5e-5808c01f54e0"
+    },
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1613,
+    "x": 3086,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Estate agent",
+    "id": 3097,
+    "x": 3094,
+    "y": 3483,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Richard",
+    "id": 2200,
+    "x": 3118,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "204b1cb6-f628-4f91-96c9-07941921a1e7"
+    }
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 3079,
+    "y": 3501,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2149,
+    "x": 3079,
+    "y": 3500,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 3079,
+    "y": 3499,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2149,
+    "x": 3079,
+    "y": 3498,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Ironman Supplies",
+    "id": 2814,
+    "x": 3075,
+    "y": 3509,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Krystilia",
+    "id": 7663,
+    "x": 3083,
+    "y": 3483,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3050,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3050,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ram",
+    "id": 1265,
+    "x": 3052,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rooster",
+    "id": 2803,
+    "x": 3053,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3053,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3054,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abbot Langley",
+    "id": 2577,
+    "x": 3057,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3036,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3046,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3045,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brother Althric",
+    "id": 1397,
+    "x": 3048,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wise old man",
+    "id": 2110,
+    "x": 3069,
+    "y": 3517,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3075,
+    "y": 3471,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3077,
+    "y": 3474,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3079,
+    "y": 3471,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3079,
+    "y": 3474,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3081,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3083,
+    "y": 3474,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3080,
+    "y": 3479,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3078,
+    "y": 3476,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3075,
+    "y": 3477,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3084,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3084,
+    "y": 3463,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3081,
+    "y": 3463,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3079,
+    "y": 3464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3079,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3074,
+    "y": 3463,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3079,
+    "y": 3458,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 1026,
+    "x": 3087,
+    "y": 3459,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

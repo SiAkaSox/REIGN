@@ -1,0 +1,121 @@
+---
+identifier: "183ba085-4bec-44e0-96b5-60752b4a7ec8"
+title: "Blood Money Rewards"
+currency: "BLOOD_MONEY"
+canSellToStore: false
+accessibleByIronMan: true
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 22647
+    amount: 1000
+    price: 1500
+  - id: 22613
+    amount: 1000
+    price: 1500
+  - id: 22622
+    amount: 1000
+    price: 6000
+  - id: 11802
+    amount: 1000
+    price: 6000
+  - id: 13652
+    amount: 1000
+    price: 6000
+  - id: 12877
+    amount: 1000
+    price: 10250
+  - id: 12881
+    amount: 1000
+    price: 10250
+  - id: 12883
+    amount: 1000
+    price: 1750
+  - id: 11840
+    amount: 1000
+    price: 750
+  - id: 6920
+    amount: 1000
+    price: 7500
+  - id: 12002
+    amount: 1000
+    price: 250
+  - id: 6914
+    amount: 1000
+    price: 6000
+  - id: 6889
+    amount: 1000
+    price: 6000
+  - id: 20716
+    amount: 1000
+    price: 6000
+  - id: 20718
+    amount: 1000
+    price: 500
+  - id: 21902
+    amount: 1000
+    price: 750
+  - id: 19481
+    amount: 1000
+    price: 750
+  - id: 22296
+    amount: 1000
+    price: 750
+  - id: 22804
+    amount: 1000
+    price: 1500
+  - id: 20849
+    amount: 1000
+    price: 1100
+  - id: 19484
+    amount: 1000
+    price: 3000
+  - id: 11230
+    amount: 1000
+    price: 2
+  - id: 10926
+    amount: 1000
+    price: 1
+  - id: 22462
+    amount: 1000
+    price: 750
+  - id: 22450
+    amount: 1000
+    price: 750
+  - id: 12791
+    amount: 1000
+    price: 750
+  - id: 10551
+    amount: 1000
+    price: 5
+  - id: 6731
+    amount: 1000
+    price: 500
+  - id: 6733
+    amount: 1000
+    price: 1000
+  - id: 6735
+    amount: 1000
+    price: 5
+  - id: 6737
+    amount: 1000
+    price: 5
+  - id: 24201
+    amount: 1000
+    price: 5
+  - id: 24192
+    amount: 1000
+    price: 5
+  - id: 24195
+    amount: 1000
+    price: 5
+  - id: 12639
+    amount: 1000
+    price: 5
+  - id: 24198
+    amount: 1000
+    price: 5
+  - id: 12638
+    amount: 1000
+    price: 5

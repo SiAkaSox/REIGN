@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3341,
+    "y": 10168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3338,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3345,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3342,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3337,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3342,
+    "y": 10157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3347,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3344,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 3358,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 3368,
+    "y": 10157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 3363,
+    "y": 10156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3340,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3335,
+    "y": 10139,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3342,
+    "y": 10137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3336,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3334,
+    "y": 10126,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3334,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 3343,
+    "y": 10130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3362,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 3357,
+    "y": 10118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3369,
+    "y": 10118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 3364,
+    "y": 10113,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3334,
+    "y": 10115,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3336,
+    "y": 10111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3333,
+    "y": 10108,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3338,
+    "y": 10106,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3334,
+    "y": 10104,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3333,
+    "y": 10100,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3340,
+    "y": 10103,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 3341,
+    "y": 10099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3350,
+    "y": 10084,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3349,
+    "y": 10081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3351,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3354,
+    "y": 10080,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3357,
+    "y": 10082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3358,
+    "y": 10077,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3362,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3363,
+    "y": 10080,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3367,
+    "y": 10072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3371,
+    "y": 10065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3336,
+    "y": 10060,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3335,
+    "y": 10052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3351,
+    "y": 10054,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3344,
+    "y": 10052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3340,
+    "y": 10055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2088,
+    "x": 3343,
+    "y": 10059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3414,
+    "y": 10069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3419,
+    "y": 10066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3411,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3398,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3402,
+    "y": 10121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Green dragon",
+    "id": 260,
+    "x": 3397,
+    "y": 10121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3422,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3431,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3421,
+    "y": 10153,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3427,
+    "y": 10152,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3432,
+    "y": 10148,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3424,
+    "y": 10147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3429,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3434,
+    "y": 10143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3429,
+    "y": 10141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 3435,
+    "y": 10151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3434,
+    "y": 10126,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3429,
+    "y": 10116,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3434,
+    "y": 10121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3438,
+    "y": 10118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3439,
+    "y": 10123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3441,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3443,
+    "y": 10119,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3445,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 3450,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3424,
+    "y": 10107,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3425,
+    "y": 10101,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3428,
+    "y": 10104,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3430,
+    "y": 10100,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3433,
+    "y": 10097,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3435,
+    "y": 10101,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3432,
+    "y": 10105,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3436,
+    "y": 10105,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 3439,
+    "y": 10108,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3444,
+    "y": 10096,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3439,
+    "y": 10087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3446,
+    "y": 10081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3440,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3447,
+    "y": 10074,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

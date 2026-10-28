@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Trader Crewmember",
+    "id": 9372,
+    "x": 2673,
+    "y": 3147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 9372,
+    "x": 2587,
+    "y": 2851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 9372,
+    "x": 3185,
+    "y": 6081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

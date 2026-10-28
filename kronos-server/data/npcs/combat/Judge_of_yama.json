@@ -1,0 +1,47 @@
+[
+  { #Judge of yama (624)
+  "ids": [ 10938 ],
+  "handler": "io.ruin.model.activities.wilderness.bosses.custom.yama.JudgeOfYama",
+  //Combat Info
+  "hitpoints": 500,
+  "aggressive_level": 1248,
+  "max_damage": 25,
+  "attack_style": "CRUSH",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 0.0,
+  "slayer_tasks": ["blackdemons", "greaterdemons"],
+  //Combat Stats
+  "attack": 280,
+  "strength": 350,
+  "defence": 250,
+  "ranged": 0,
+  "magic": 84,
+  //Aggressive Stats
+  "stab_attack": 40,
+  "slash_attack": 120,
+  "crush_attack": 120,
+  "magic_attack": 120,
+  "ranged_attack": 100,
+  //Defensive Stats
+  "stab_defence": 40,
+  "slash_defence": 40,
+  "crush_defence": 40,
+  "magic_defence": 2000,
+  "ranged_defence": 2000,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 4,
+  "death_ticks": 5,
+  "respawn_ticks": 60,
+  //Animations
+  "spawn_animation": 4681,
+  "attack_animation": 4680,
+  "defend_animation": 4676,
+  "death_animation": 9043,
+  //Other
+  "local_loot": true
+  }
+]

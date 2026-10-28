@@ -1,0 +1,1047 @@
+[
+  {
+    "name": "Justiciar Zachariah",
+    "id": 7858,
+    "x": 3310,
+    "y": 4053,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1
+  },
+  {
+    "name": "Porazdir",
+    "id": 7860,
+    "x": 3284,
+    "y": 4036,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1
+  },
+  {
+    "name": "Derwen",
+    "id": 7859,
+    "x": 3286,
+    "y": 4075,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1
+  },
+  {
+    "name": "Judge of yama",
+    "id": 10938,
+    "x": 3168,
+    "y": 4121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted dark beast",
+    "id": 9048,
+    "x": 3083,
+    "y": 4094,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted dark beast",
+    "id": 9048,
+    "x": 3059,
+    "y": 4082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted dark beast",
+    "id": 9048,
+    "x": 3070,
+    "y": 4074,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted spider",
+    "id": 9041,
+    "x": 3085,
+    "y": 4081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted spider",
+    "id": 9041,
+    "x": 3048,
+    "y": 4099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted spider",
+    "id": 9041,
+    "x": 3064,
+    "y": 4092,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted spider",
+    "id": 9041,
+    "x": 3074,
+    "y": 4090,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted spider",
+    "id": 9041,
+    "x": 3090,
+    "y": 4086,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted wolf",
+    "id": 9045,
+    "x": 3079,
+    "y": 4088,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted wolf",
+    "id": 9045,
+    "x": 3039,
+    "y": 4100,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted unicorn",
+    "id": 9043,
+    "x": 3069,
+    "y": 4097,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted unicorn",
+    "id": 9043,
+    "x": 3052,
+    "y": 4077,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted unicorn",
+    "id": 9043,
+    "x": 3057,
+    "y": 4103,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted wolf",
+    "id": 9045,
+    "x": 3056,
+    "y": 4093,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted dragon",
+    "id": 9047,
+    "x": 3069,
+    "y": 4083,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Corrupted dragon",
+    "id": 9047,
+    "x": 3042,
+    "y": 4085,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3319,
+    "y": 4027,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3322,
+    "y": 4030,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 3270,
+    "y": 4001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 3300,
+    "y": 4004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3301,
+    "y": 4004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3021,
+    "y": 4017,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 3022,
+    "y": 4017,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Karambwan Fishing Spot",
+    "id": 4712,
+    "x": 3219,
+    "y": 4010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3215,
+    "y": 4011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 1535,
+    "x": 3215,
+    "y": 4006,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark Crab Fishing Spot",
+    "id": 6825,
+    "x": 3216,
+    "y": 4002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3228,
+    "y": 4069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3224,
+    "y": 4072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3218,
+    "y": 4070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3214,
+    "y": 4065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3210,
+    "y": 4072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crystal Impling",
+    "id": 2912,
+    "x": 3204,
+    "y": 4066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3072,
+    "y": 4016,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3069,
+    "y": 4019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3066,
+    "y": 4015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 6608,
+    "x": 3058,
+    "y": 4023,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 3112,
+    "y": 4087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 3117,
+    "y": 4090,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 3117,
+    "y": 4082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 3123,
+    "y": 4085,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ice warrior",
+    "id": 2841,
+    "x": 3127,
+    "y": 4136,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice warrior",
+    "id": 2841,
+    "x": 3137,
+    "y": 4137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice warrior",
+    "id": 2841,
+    "x": 3131,
+    "y": 4142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice warrior",
+    "id": 2841,
+    "x": 3144,
+    "y": 4146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice spider",
+    "id": 3022,
+    "x": 3229,
+    "y": 4140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice spider",
+    "id": 3022,
+    "x": 3235,
+    "y": 4144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice spider",
+    "id": 3022,
+    "x": 3235,
+    "y": 4136,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice spider",
+    "id": 3022,
+    "x": 3227,
+    "y": 4132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2087,
+    "x": 3132,
+    "y": 4132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ice giant",
+    "id": 2087,
+    "x": 3138,
+    "y": 4143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+
+  {
+    "name": "Elder Chaos druid",
+    "id": 6607,
+    "x": 3060,
+    "y": 4014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Elder Chaos druid",
+    "id": 6607,
+    "x": 3061,
+    "y": 4019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Elder Chaos druid",
+    "id": 6607,
+    "x": 3074,
+    "y": 4027,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3059,
+    "y": 4034,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3070,
+    "y": 4035,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3064,
+    "y": 4029,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3101,
+    "y": 4035,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3099,
+    "y": 4044,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3091,
+    "y": 4038,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3107,
+    "y": 4043,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3113,
+    "y": 4048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3122,
+    "y": 4037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3129,
+    "y": 4049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3117,
+    "y": 4062,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3104,
+    "y": 4058,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3101,
+    "y": 4035,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3123,
+    "y": 4055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 6594,
+    "x": 3134,
+    "y": 4061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3121,
+    "y": 3985,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3095,
+    "y": 3977,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3099,
+    "y": 3997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3129,
+    "y": 4004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3112,
+    "y": 3991,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3089,
+    "y": 4008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3161,
+    "y": 3977,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Lava dragon",
+    "id": 6593,
+    "x": 3142,
+    "y": 3986,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black dragon",
+    "id": 252,
+    "x": 3177,
+    "y": 4001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black dragon",
+    "id": 252,
+    "x": 3180,
+    "y": 4014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black dragon",
+    "id": 252,
+    "x": 3198,
+    "y": 4007,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3196,
+    "y": 4015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3186,
+    "y": 4005,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3186,
+    "y": 3996,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 3166,
+    "y": 4004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3162,
+    "y": 4008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3155,
+    "y": 4012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3154,
+    "y": 4003,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 3169,
+    "y": 4014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 3294,
+    "y": 4057,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 3291,
+    "y": 4052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 3296,
+    "y": 4051,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 3288,
+    "y": 4048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 3287,
+    "y": 4055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 3290,
+    "y": 4057,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 3287,
+    "y": 4060,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 3291,
+    "y": 4063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 3295,
+    "y": 4063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 3294,
+    "y": 4060,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ogre",
+    "id": 2233,
+    "x": 3294,
+    "y": 4067,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 3289,
+    "y": 4063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 3289,
+    "y": 4069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 3283,
+    "y": 4068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 3281,
+    "y": 4063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 3276,
+    "y": 4064,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 3275,
+    "y": 4058,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 3274,
+    "y": 4053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 3280,
+    "y": 4046,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 3301,
+    "y": 4049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 3305,
+    "y": 4063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 3298,
+    "y": 4043,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 3290,
+    "y": 4039,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 3282,
+    "y": 4055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

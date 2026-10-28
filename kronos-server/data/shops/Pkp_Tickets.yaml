@@ -1,0 +1,13 @@
+---
+identifier: "4d16cff7-a3a8-4351-9aae-d89gf2f7e037"
+title: "Pkp Ticket Exchange"
+currency: "PKP"
+accessibleByIronMan: true
+canSellToStore: true
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 4067
+    amount: 10000
+    price: 50

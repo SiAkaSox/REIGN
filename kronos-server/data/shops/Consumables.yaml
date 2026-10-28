@@ -1,0 +1,78 @@
+---
+identifier: "347da8b3-dd23-4a46-bf05-3a452e5e1f3d"
+title: "Consumables"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 4
+  restockPerTick: 50
+defaultStock:
+  - id: 13442
+    amount: 1000000
+  - id: 11937
+    amount: 1000000
+  - id: 392
+    amount: 1000000
+  - id: 386
+    amount: 1000000
+  - id: 7947
+    amount: 1000000
+  - id: 374
+    amount: 1000000
+  - id: 380
+    amount: 1000000
+  - id: 334
+    amount: 1000000
+  - id: 3145
+    amount: 1000000
+  - id: 2302
+    amount: 1000000
+  - id: 7219
+    amount: 1000000
+  - id: 4418
+    amount: 1000000
+  - id: 2437
+    amount: 1000000
+    price: 1500
+  - id: 2441
+    amount: 1000000
+    price: 1500
+  - id: 2443
+    amount: 1000000
+    price: 1500
+  - id: 2445
+    amount: 1000000
+    price: 4000
+  - id: 3025
+    amount: 1000000
+    price: 6000
+  - id: 6686
+    amount: 1000000
+    price: 6000
+  - id: 3009
+    amount: 1000000
+  - id: 2435
+    amount: 1000000
+    price: 4000
+  - id: 12696
+    amount: 1000000
+    price: 12000
+  - id: 22462
+    amount: 1000000
+    price: 8000
+  - id: 22450
+    amount: 1000000
+    price: 8000
+  - id: 12626
+    amount: 1000000
+    price: 12000
+  - id: 2453
+    amount: 1000000
+    price: 4000
+  - id: 12914
+    amount: 1000000
+    price: 6000
+  - id: 10926
+    amount: 1000000
+    price: 6000

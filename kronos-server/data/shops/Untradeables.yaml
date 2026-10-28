@@ -1,0 +1,158 @@
+---
+identifier: "cba68c44-a106-4815-9b07-eaebe7fca6bw"
+title: "Untradeable Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 8839
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 8840
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 13072
+    amount: 10000
+    price: 1000000
+    placeholderId: 0
+  - id: 13073
+    amount: 10000
+    price: 1000000
+    placeholderId: 0
+  - id: 11663
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 11664
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 11665
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 8842
+    amount: 10000
+    price: 50000
+    placeholderId: 0
+  - id: 8845
+    amount: 10000
+    price: 5000
+    placeholderId: 0
+  - id: 8846
+    amount: 10000
+    price: 10000
+    placeholderId: 0
+  - id: 8847
+    amount: 10000
+    price: 20000
+    placeholderId: 0
+  - id: 8848
+    amount: 10000
+    price: 30000
+    placeholderId: 0
+  - id: 8849
+    amount: 10000
+    price: 50000
+    placeholderId: 0
+  - id: 8850
+    amount: 10000
+    price: 100000
+    placeholderId: 0
+  - id: 12954
+    amount: 10000
+    price: 500000
+    placeholderId: 0
+  - id: 19722
+    amount: 10000
+    price: 1200000
+    placeholderId: 0
+  - id: 10548
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 10550
+    amount: 10000
+    price: 250000
+    placeholderId: 0
+  - id: 2414
+    amount: 10000
+    price: 25000
+    placeholderId: 0
+  - id: 2412
+    amount: 10000
+    price: 25000
+    placeholderId: 0
+  - id: 2413
+    amount: 10000
+    price: 25000
+    placeholderId: 0
+  - id: 12791
+    amount: 10000
+    price: 500000
+    placeholderId: 0
+  - id: 7409
+    amount: 10000
+    price: 3000000
+    placeholderId: 0
+  - id: 10499
+    amount: 10000
+    price: 10000
+    placeholderId: 0
+  - id: 4081
+    amount: 10000
+    price: 100000
+    placeholderId: 0
+  - id: 10588
+    amount: 10000
+    price: 2500000
+    placeholderId: 0
+  - id: 12018
+    amount: 10000
+    price: 5000000
+    placeholderId: 0
+  - id: 11941
+    amount: 10000
+    price: 100000
+    placeholderId: 0
+  - id: 22114
+    amount: 10000
+    price: 80000
+    placeholderId: 0
+  - id: 11200
+    amount: 10000
+    price: 50000
+    placeholderId: 0
+  - id: 11061
+    amount: 10000
+    price: 120000
+    placeholderId: 0
+  - id: 4224
+    amount: 10000
+    price: 200000
+    placeholderId: 0
+  - id: 4212
+    amount: 10000
+    price: 200000
+    placeholderId: 0
+  - id: 19564
+    amount: 10000
+    price: 50000
+    placeholderId: 0
+  - id: 3842
+    amount: 10000
+  - id: 3844
+    amount: 10000
+  - id: 12612
+    amount: 10000
+  - id: 12610
+    amount: 10000
+  - id: 12608
+    amount: 10000
+  - id: 3840
+    amount: 10000
