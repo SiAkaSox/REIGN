@@ -349,7 +349,7 @@ public class LoginDecoder extends MessageDecoder<Channel> {
 
         String server_uid = in.readString(); //from params 9
 
-        if (server_uid == null || server_uid.isEmpty() || !Objects.equals(server_uid, TOKEN_9)) {
+        if (!World.isDev() && (server_uid == null || server_uid.isEmpty() || !Objects.equals(server_uid, TOKEN_9))) {
             System.err.println("Invalid server_uid for NAME="+username+" UID="+uuid+" MAC="+macAddress+" IP="+IPAddress.get(channel));
             Response.GAME_UPDATED.send(channel);
             return null;
@@ -357,7 +357,7 @@ public class LoginDecoder extends MessageDecoder<Channel> {
 
         int anotherUID = in.readInt(); //from params 14
 
-        if (anotherUID != TOKEN_14) {
+        if (!World.isDev() && anotherUID != TOKEN_14) {
             System.err.println("Invalid anotherUID for NAME="+username+" UID="+uuid+" MAC="+macAddress+" IP="+IPAddress.get(channel));
             Response.GAME_UPDATED.send(channel);
             return null;
