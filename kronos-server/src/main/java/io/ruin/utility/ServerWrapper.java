@@ -32,10 +32,15 @@ public class ServerWrapper {
 
     public static void logError(String message) {
         rollingErrorFileLogger.error(message);
+        System.err.println("[ERROR] " + message);
     }
 
     public static void logError(String message, Throwable t) {
         rollingErrorFileLogger.error(message, t);
+        // Also print to the console so errors (e.g. during login) are not hidden in logs/error.log.
+        System.err.println("[ERROR] " + message);
+        if (t != null)
+            t.printStackTrace();
     }
 
     public static void logWarning(String warning) {
