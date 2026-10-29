@@ -42,7 +42,6 @@ public class PlayerUpdater {
                 continue;
             Player p = World.getPlayer(index);
             out.addBits(18, globalRegionHashes[index] = (p == null ? 0 : p.getPosition().getRegionHash()));
-            out.addBits(15, p == null ? 0 : p.getLastDirection());
             globalIndexes[globalCount++] = index;
         }
         out.finishBitAccess();
